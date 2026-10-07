@@ -1,0 +1,446 @@
+
+/*==============================================
+   Theme Color Css
+===============================================*/
+.thm-clr{
+    color: #f7222c;    
+}
+
+
+
+
+.mobile-menu .navigation li.current > a, 
+.mobile-menu .navigation li > a:hover {
+    color: #f7222c;
+}
+.owl-nav-style-one.owl-theme .owl-nav .owl-prev:hover:before{
+    color: #f7222c;    
+}
+.outer-search-box-style1 .seach-toggle:hover,
+.outer-search-box-style1 .seach-toggle.active{
+    border-color: #f7222c;
+}
+.owl-carousel.owl-dot-style1 .owl-dots .owl-dot{
+    background: #f7222c;
+}
+.mobile-menu .navigation li > a:before {
+    border-left: 5px solid #f7222c;
+}
+
+
+
+
+
+
+
+/*==============================================
+   Theme Hover Color Css
+===============================================*/
+.main-menu .navigation>li:hover>a,
+.main-menu .navigation>li.current>a{
+	color: #f7222c;
+}
+.main-menu .navigation>li>ul>li>a:hover {
+	color: #f7222c;
+}
+.main-menu .navigation> li> ul> li> a:before{
+    color: #f7222c;
+}
+.main-menu .navigation> li> ul> li:hover > a{
+	color: #f7222c;
+}
+.main-menu .navigation> li> ul> li> ul> li> a:hover {
+	color: #f7222c;
+}
+.main-menu .navigation>li>ul>li>ul>li a:before{
+    color: #f7222c;
+}
+.sticky-header .main-menu .navigation>li:hover>a, 
+.sticky-header .main-menu .navigation>li.current>a {
+    color: #f7222c;
+}
+
+
+.main-menu.style3 .navigation>li:hover>a,
+.main-menu.style3 .navigation>li.current>a{
+	color: #f7222c;
+}
+.main-menu.style3 .navigation>li>ul>li>a:hover {
+	color: #f7222c;
+}
+.main-menu.style3 .navigation> li> ul> li> a:before{
+    color: #f7222c;
+}
+.main-menu.style3 .navigation> li> ul> li:hover > a{
+	color: #f7222c;
+}
+.main-menu.style3 .navigation> li> ul> li> ul> li> a:hover {
+	color: #f7222c;
+}
+.main-menu.style3 .navigation>li>ul>li>ul>li a:before{
+    color: #f7222c;
+}
+.sticky-header .main-menu.style3 .navigation>li:hover>a, 
+.sticky-header .main-menu.style3 .navigation>li.current>a {
+    color: #f7222c;
+}
+
+
+
+.main-menu.style4 .navigation>li:hover>a,
+.main-menu.style4 .navigation>li.current>a{
+	color: #f7222c;
+}
+.main-menu.style4 .navigation>li>ul>li>a:hover {
+	color: #f7222c;
+}
+.main-menu.style4 .navigation> li> ul> li> a:before{
+    color: #f7222c;
+}
+.main-menu.style4 .navigation> li> ul> li:hover > a{
+	color: #f7222c;
+}
+.main-menu.style4 .navigation> li> ul> li> ul> li> a:hover {
+	color: #f7222c;
+}
+.main-menu.style4 .navigation>li>ul>li>ul>li a:before{
+    color: #f7222c;
+}
+.sticky-header .main-menu.style4 .navigation>li:hover>a, 
+.sticky-header .main-menu.style4 .navigation>li.current>a {
+    color: #02a2f2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==============================================
+   Theme Background Css
+===============================================*/
+.thm-bgclr{
+    background-color: #f7222c;
+}
+
+
+
+
+
+
+
+/*==============================================
+   Theme Hover Background Color Css
+===============================================*/
+.overlay-bgc1{
+    background-color: rgba(247, 34, 44, 0.90);
+}
+.testimonial-style2-area .layer-outer::before {
+    background: rgba(247, 34, 44, 0.90);
+}
+.footer-area.style2:before {
+    background-color: rgba(247, 34, 44, 0.95);
+}
+.single-work-process.style2 .icon-holder{
+    border: 15px solid rgba(247, 34, 44, 0.10);
+}
+.single-work-process.style2 .icon-holder .inner{
+    border: 15px solid rgba(247, 34, 44, 0.20);
+}
+
+
+
+/*==============================================
+   Theme Border Color Css
+===============================================*/
+
+
+
+
+
+
+
+/*==============================================
+   Theme Other Color, Background, Hover, Active Css
+===============================================*/
+.header-upper-right:before {
+    background: #f7222c;
+}
+.header-lawer-right .button a:hover{
+    color: #f7222c;
+}
+.main-slider.style1 .content{
+    border-top: 7px solid #f7222c;
+}
+.btn-one:before{
+    background: #f7222c;
+}
+.btn-one:hover:after{
+    background: #f7222c;
+}
+.about-style1-text-box .title h5 {
+    color: #f7222c;
+}
+.sec-title .border-box:before{
+    background: #f7222c;
+}
+.sec-title .border-box:after{
+    background: #f7222c;
+}
+.single-service-style1 .img-holder .title:before{
+    background: #f7222c;
+}
+.project-tabs .tab-buttons .tab-btn:hover,
+.project-tabs .tab-buttons .tab-btn.active-btn{
+	color: #f7222c;
+}
+.latest-project-style1-area .bg-color {
+    background: #f7222c;
+}
+.single-team-member .img-holder:before{
+    border: 3px solid #f7222c; 
+}
+.single-team-member .title-holder p{
+    color: #f7222c;
+}
+.testimonial-carousel .owl-nav button.owl-prev:before{
+    border: 2px solid #f7222c;
+}
+.testimonial-carousel .owl-nav button.owl-next:before{
+    border: 2px solid #f7222c;
+}
+.testimonial-carousel .owl-nav button span{
+    color: #f7222c;
+}
+.testimonial-carousel .owl-nav button p{
+    color: #f7222c;
+}
+.single-blog-post .text-holder .meta-info li a:hover{
+    color: #f7222c;        
+}
+.single-blog-post .text-holder .blog-title a:hover{
+    color: #f7222c;       
+}
+.footer-social-links .social-links ul li a:hover{
+    color: #f7222c;      
+}
+.single-footer-widget .latest-news li .title-box h4 a:hover{
+    color: #f7222c;
+}
+.single-footer-widget .services-links li a:hover{
+    color: #f7222c;       
+}
+.slider-box-style2 .content{
+    border-top: 7px solid #f7222c;
+}
+.video-holder-box.style2 .icon .inner a {
+    background: #f7222c;
+}
+.mainmenu-area .outer-box .top ul li a:hover{
+    color: #f7222c;      
+}
+.mainmenu-area .outer-box .bottom .right .button a:before{
+    background-color: #f7222c;
+}
+.slider-box-style2 .owl-theme .owl-nav .owl-prev:before{
+    background-color: #f7222c;
+}
+.slider-box-style2 .owl-theme .owl-nav .owl-next:hover:before{
+    background-color: #f7222c;    
+}
+.about-style2-right-box ul li .inner .icon span:before {
+    color: #f7222c;
+}
+.about-style2-right-box ul li:before{
+    background-color: #f7222c;
+}
+.project-filter li .filter-text:before{
+    background-color: #f7222c;  
+}
+.single-project-style2 .overlay-content .box ul li a{
+    color: #f7222c;  
+}
+.slogan-content:before{
+    background-color: #f7222c;
+}
+.single-price-box .value h2 {
+    color: #f7222c;
+}
+.single-price-box:after{
+    background: #f7222c;
+}
+.single-price-box:hover:before{
+    background: #f7222c;
+}
+.header-contact-info-style2 ul li a:hover{
+    color: #f7222c;        
+}
+.header-social-links ul li a:hover{
+    color: #f7222c;       
+}
+.header-lawer-style2{
+    background: #f7222c;
+}
+.owl-nav-style-one.owl-theme .owl-nav .owl-prev:hover:after, 
+.owl-nav-style-one.owl-theme .owl-nav .owl-next:hover:after {
+    border-color: #f7222c;
+    background: #f7222c;
+}
+.about-style3-tab-box .tab-buttons .tab-btn:hover:before,
+.about-style3-tab-box .tab-buttons .tab-btn.active-btn:before{
+    background: #f7222c;    
+}
+.video-holder-box-style3 .icon .inner a span:before {
+    background: #f7222c;
+}
+.about-style3-tab-box .tabs-content .inner-content ul li:hover:before{
+    color: #f7222c;      
+}
+.testimonial-carousel-style2.owl-nav-style-one.owl-theme .owl-nav .owl-prev:hover:after, 
+.testimonial-carousel-style2.owl-nav-style-one.owl-theme .owl-nav .owl-next:hover:after {
+    border: 1px solid #f7222c;
+    background-color: #f7222c;
+}
+.subscribe-area .subscribe-form:before{
+    border: 1px dashed #f7222c;
+}
+.subscribe-area .subscribe-form button:before {
+    background-color: #f7222c;
+}
+.header-contact-info-style3 ul li a:hover{
+    color: #f7222c;        
+}
+.header-social-links-style2 ul li a:hover{
+    color: #f7222c;       
+}
+.main-menu.style4 .navigation>li>a:after {
+    background-color: #f7222c;
+}
+.header-lawer-right-style3 .button a:before{
+    background-color: #f7222c;
+}
+.about-style4-content .text-box ul li:before {
+    color: #f7222c;   
+}
+.about-style4-content .img-box:before {
+    background: #f7222c;
+}
+.progress-levels .progress-box .bar .bar-fill{
+	background: #f7222c;
+}
+.single-project-style3 .overlay-content .box ul li a:hover{
+    background-color: #f7222c;
+}
+.service-menu-box ul li a:after {
+    background-color: #f7222c;
+}
+.brochures-box ul li a span:before {
+    color: #f7222c;
+}
+.brochures-box ul li a:hover:after{
+    border-color: #f7222c;
+    background-color: #f7222c;
+}
+.working-topics-content-box .text-holder ul li:before {
+    color: #f7222c;    
+}
+.vehicle-year .ui-slider-handle:before {
+    background-color: #f7222c;
+}
+.appointment-form .dropdown-item {
+    background-color: #f7222c !important;
+}
+.select-services-box input[type="checkbox"]:checked + label span {
+    border-color: #f7222c;
+    background-color: #f7222c;
+}
+.faq-content-box-two .accordion-box .accordion .accord-btn::after {
+    color: #f7222c;    
+}
+.sidebar-search-box .search-form button {
+    background-color: #f7222c;
+}
+.sidebar-wrapper .single-sidebar .title:before{
+    background-color: #f7222c;
+}
+.single-sidebar .categories li a:hover{
+    color: #f7222c;       
+}
+.single-sidebar .categories li a:before{
+    color: #f7222c;    
+}
+.single-sidebar .recent-posts li .title-box h4 a:hover{
+    color: #f7222c;        
+}
+.single-sidebar .popular-tag li a:hover{
+    border-color: #f7222c;
+    background-color: #f7222c;
+}
+.blog-single-area .blog-post .single-blog-post .text-holder .blog-title {
+    color: #f7222c;
+}
+.tag-social-share-box .tag ul li a:hover{
+    color: #f7222c;          
+}
+.tag-social-share-box .social-share .sociallinks li a:hover{
+    color: #f7222c;        
+}
+.blog-single-author-box .inner .text-box .sociallinks li a:hover{
+    color: #f7222c;       
+}
+.blog-single-prev-next-button .title-box p a:hover{
+    color: #f7222c;        
+}
+.blog-single-prev-next-button .title-box h3 a:hover{
+    color: #f7222c;      
+}
+.comment-box .single-comment-box .text-holder .top .reply-button a{
+    color: #f7222c;    
+}
+.contact-information-box .follow-us .social-links ul li a:hover{
+    color: #f7222c;    
+}
+.project-social-share .social-links ul li a:hover{
+    color: #f7222c;      
+}
+.testimonial-social-links ul li a:hover{
+    color: #f7222c;        
+}
+.slider-social-links ul li a:hover{
+    color: #f7222c;        
+}
+.styled-pagination li a:hover:before,
+.styled-pagination li a.active:before{
+    border-color: #f7222c;    
+}
+.styled-pagination li.prev a:hover:before,
+.styled-pagination li.next a:hover:before{
+    background-color: #f7222c;    
+}
+
+
+
+
+
+
+
+
