@@ -1773,7 +1773,7 @@ select:focus {
     left: 15px;
     bottom: 0;
     right: 100px;
-    background: #f2f4f6;
+    background: #0d1b3e;
     content: "";
     z-index: -1;
     -moz-transform: skew(30deg, 0deg);
@@ -1789,7 +1789,7 @@ select:focus {
     padding-left: 70px;
 }
 .header-top-right .top .opening-hours p{
-    color: #5b6472;
+    color: #ffffff;
     font-size: 16px;
     line-height: 50px;
     margin: 0;
