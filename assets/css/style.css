@@ -3059,7 +3059,7 @@ select:focus {
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
-    margin: 0;
+    margin: 0 0 70px;
 }
 
 .latest-project-style1-content{
@@ -3120,14 +3120,14 @@ select:focus {
     font-weight: 600;
 }
 .single-project-style1 .img-holder .overlay-content h3 a{
-    color: #ffffff;
+    color: #f22c39;
 }
 
 .project-style1-carousel.owl-nav-style-one.owl-theme .owl-nav {
     top: auto;
     right: auto;
     left: -300px;
-    bottom: 76px;
+    bottom: 10px;
 }
 
 
