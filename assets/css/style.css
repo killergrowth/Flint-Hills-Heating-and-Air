@@ -1851,7 +1851,7 @@ select:focus {
 }
 .header-top-right .bottom .call-un-now p a{
     position: relative;
-    top: 5px;
+    top: 0;
     color: #f22c39;
     font-size: 28px;
     font-weight: 600;
@@ -2282,11 +2282,13 @@ select:focus {
 }
 .banner-left-content .satisfaction-logo {
     position: absolute;
-    bottom: -130px;
-    right: -30px;
+    top: 0;
+    right: -10px;
+    z-index: 2;
 }
 .banner-left-content .satisfaction-logo img{
-    width: auto;
+    width: 90px;
+    height: auto;
 }
 .banner-left-content h2 {
     color: #ffffff;
