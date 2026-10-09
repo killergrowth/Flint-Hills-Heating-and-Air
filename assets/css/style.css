@@ -2497,6 +2497,9 @@ select:focus {
     display: table-cell;
     vertical-align: middle;
 }
+.slogan-content .left .title{
+    display: block;
+}
 .slogan-content .left .title h2{
     color: #012d5b;
     font-size: 26px;
