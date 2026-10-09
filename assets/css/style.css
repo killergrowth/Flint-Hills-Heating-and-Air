@@ -3043,7 +3043,7 @@ select:focus {
     position: relative;
     display: block;
     margin-top: -11px;
-    max-width: 220px;
+    max-width: 260px;
     width: 100%;
     z-index: 2;
 }
@@ -3128,7 +3128,7 @@ select:focus {
     top: auto;
     right: auto;
     left: -300px;
-    bottom: 10px;
+    bottom: -70px;
 }
 
 
